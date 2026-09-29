@@ -3,8 +3,8 @@
 // See SETUP.md steps 1–3 for where to get them.
 export const CONFIG = {
   // Apps Script web app URL (Deploy → Manage deployments → Web app URL, ends in /exec)
-  API_URL: '',
+  API_URL: 'https://script.google.com/macros/s/AKfycbxbrpfEegle92Sdk_y7Xi3tJRHX1SOHcE9HpDxbaF7QvHCLzaZ2Z9v03t52LMaX5w53/exec',
 
   // Google Cloud OAuth 2.0 Client ID (type: Web application)
-  GOOGLE_CLIENT_ID: '',
+  GOOGLE_CLIENT_ID: '913484722100-rlhbf5psd8d5h4fi7taeg67ac7340kki.apps.googleusercontent.com',
 };
