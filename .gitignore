@@ -1,0 +1,26 @@
+# clasp (contains your script ID) and credentials
+.clasp.json
+.clasprc.json
+creds.json
+client_secret*.json
+
+# local environment files
+.env
+.env.*
+*.local
+*.local.js
+
+# PWABuilder / Android signing output: keep these private and backed up elsewhere
+*.apk
+*.aab
+*.keystore
+*.jks
+signing-key-info.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+node_modules/
